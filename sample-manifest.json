@@ -1,12 +1,12 @@
 {
-  "export_job_id": "649731e5-02eb-4d22-bbab-311cd550ece0",
+  "export_job_id": "7db74578-2475-43d7-be6f-ef38304a2d38",
   "id_short": 322790,
-  "published_at": "2026-04-22T19:34:03Z",
+  "published_at": "2026-04-30T07:17:38Z",
   "repo_name": "restaurant-verified-email-access-in-oakland-california-us-sample-322790",
   "sample_asset_name": "beamstation_322790_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/322790/beamstation_322790_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 23,
-  "sample_sha256": "191567804c8069338a7f8ceab41273237722bf322e351a175a57a81dfd9afe9b",
-  "sample_size_bytes": 106463,
-  "total_records": 237
+  "sample_records": 27,
+  "sample_sha256": "4a5730101e5ca6caf4fb3b641d05b23b372d60a198aa17049061be546af9d603",
+  "sample_size_bytes": 118641,
+  "total_records": 278
 }
