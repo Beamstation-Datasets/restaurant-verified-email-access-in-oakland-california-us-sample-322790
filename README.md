@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Oakland, California, US
 
-> Free BeamStation sample export with 23 rows and masked direct-contact fields.
+> Free BeamStation sample export with 27 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `322790` |
 | Location | Oakland |
 | Category | Restaurants |
-| Full dataset size | 237 records |
-| Free sample size | 23 records (9.7%) |
-| Last export | 2026-04-22T10:52:58.941888+00:00 |
+| Full dataset size | 278 records |
+| Free sample size | 27 records (9.71%) |
+| Last export | 2026-04-29T12:11:18.134342+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-oakland-california-us-sample-322790/releases/download/sample-latest/beamstation_322790_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
